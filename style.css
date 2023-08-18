@@ -37,7 +37,7 @@ body {
     
 }
 .container1 {
-    background-image: url(/1.jpg);
+    background-image: url("1.jpg");
     background-size: cover;  
     background-repeat: no-repeat; 
     z-index: 9
@@ -146,7 +146,7 @@ body {
     margin:15px;
  }
   .container3 {
-    background-image: url(/container3.jpg);
+    background-image: url("container3.jpg");
             background-size: cover;  
             background-repeat: no-repeat; 
             position: relative;
@@ -193,7 +193,7 @@ body {
     color: blue;
  }
   .container4 {
-    background-image: url(/con4.png);
+    background-image: url("con4.png");
     background-size: cover;
     background-repeat: no-repeat;
     position: relative; 
@@ -230,7 +230,7 @@ body {
     z-index: 5;
   }
   .container5 {
-background-image: url(/container7.jpg);
+background-image: url("container7.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 z-index: 6;
@@ -238,7 +238,7 @@ z-index: 6;
   .container6 {
    
     position: relative;
-    background:url(/container3.jpg);
+    background:url("container3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     z-index: 7;
@@ -256,7 +256,7 @@ right: 100px;
 top: 100px;
 }
 .container7 {
- background-image: url(/container7.jpg);
+ background-image: url("container7.jpg");
  background-size: cover;
  background-repeat: repeat;
  display: flex;
